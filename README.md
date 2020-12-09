@@ -1,5 +1,5 @@
 # realtorAPI
-Real Estate analysis using API and python3
+Real Estate analysis using realtorAPI, pandas, numpy, requests and Jupyter Notebook as IDE
 
 
 Istanbul Bilgi University - CMPE 251 Term Project - Valley of the Wolves <br> 
